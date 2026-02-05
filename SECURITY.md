@@ -16,6 +16,8 @@ This versions of HospitalRun project are currently being supported with security
 
 ## Reporting a Vulnerability
 
+
+
 Report security bugs by opening a new [Security Issue](https://github.com/HospitalRun/hospitalrun-server/issues/new?template=security.md). You can also report a vulnerability by emailing security@hospitalrun.io.
 
 Report security bugs in third-party modules to the maintainer or team maintaining the module. 
