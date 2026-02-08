@@ -17,6 +17,9 @@ Node.js backend for [HospitalRun](http://hospitalrun.io/): free software for dev
 
 # Contributing
 
+
+
+
 Contributions are always welcome. Before contributing please read our [contributor guide](https://github.com/HospitalRun/hospitalrun-server/blob/master/.github/CONTRIBUTING.md). Then follow these steps:
 
 1. [Fork](https://github.com/HospitalRun/hospitalrun-server/fork) this repository to your own GitHub account
